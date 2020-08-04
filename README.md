@@ -1,0 +1,1 @@
+# amzcoin-smartcontract
